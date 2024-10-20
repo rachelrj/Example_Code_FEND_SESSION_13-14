@@ -1,0 +1,14 @@
+{
+  "name": "javascriptandthedom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "delegation.js",
+    "scripts": {
+      "doc": "jsdoc documentation/math.js"
+    },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "^4.0.4"
+  }
+}
